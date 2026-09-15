@@ -1,0 +1,18 @@
+[Unit]
+Description=Alist Service
+After=network.target
+StartLimitBurst=5
+StartLimitIntervalSec=60
+
+[Service]
+Type=simple
+User=alist
+Group=alist
+WorkingDirectory=/usr/local/tos7-app-07-alist
+ExecStart=/usr/local/tos7-app-07-alist/bin/tos7-app-07-alist
+EnvironmentFile=/usr/local/tos7-app-07-alist/tos7-app-07-alist.env
+TimeoutStartSec=30
+TimeoutStopSec=10
+
+[Install]
+WantedBy=multi-user.target

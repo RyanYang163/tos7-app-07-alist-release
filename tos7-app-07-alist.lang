@@ -1,0 +1,97 @@
+[en-us]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[zh-cn]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "一个支持多种存储后端的文件列表程序,提供统一的网页界面管理各类网盘。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[zh-hk]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "一個支援多種存儲後端的文件列表程式,提供統一的網頁介面管理各類網盤。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[fr-fr]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[de-de]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[it-it]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[es-es]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[hu-hu]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ja-jp]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ko-kr]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pl-pl]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ru-ru]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[tr-tr]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pt-pt]
+name = "Alist"
+auth = "TOS Review Test Corpus"
+descript = "A file list program supporting multiple storage backends through a unified web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."

@@ -1,0 +1,24 @@
+version: "3.8"
+
+services:
+  tos7-app-07-alist:
+    image: xhofe/alist:v3.42.0
+    container_name: tos7-app-07-alist
+    restart: unless-stopped
+    ports:
+      - "18087:5244"
+    user: "1000:1000"
+    volumes:
+      - /Volume*/DockerAppData/tos7-app-07-alist/data:/opt/alist/data
+    environment:
+      - TZ=Asia/Shanghai
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5244/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+x-app-meta:
+  web:
+    port: 18087
+    protocol: http
